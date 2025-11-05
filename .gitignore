@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/KikiDelivery.Console/.vs
+/KikiDelivery.Console/bin/Debug/net8.0
+/KikiDelivery.Console/obj
+/KikiDelivery.Tests/bin/Debug/net8.0
+/KikiDelivery.Tests/obj
